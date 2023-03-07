@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poemas de la Unica Poetisa Americana Musa Dezima, Soror Juana Ines de la Cruz</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>The edition of the Poemas published by J. Llopis, Barcelona, 1691, is also called the third; that published by M. Roman, Zaragoza, 1692, is called the "3. impression"</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitizing sponsor Brigham Young University Contributor Harold B. Lee Library Language Spanish</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <standOff>
+      <listPerson>
+         <person xml:id="Feliciano" sex="M">
+            <persName>Feliciano</persName>
+            <note>Character in <title level="m">Soneto V</title> speaker's love interest</note>
+         </person> 
+            <person xml:id="Lizardo" sex="M">
+         <persName>Lizardo</persName>
+         <note>Character in <title level="m">Soneto V</title> speaker's love interest</note>
+            </person> 
+         <person xml:id="Fabio" sex="M">
+            <persName>Fabio</persName>
+            <note>Character in <title level="m">Soneto V</title> speaker's love interest</note>
+         </person> 
+         <person xml:id="Celia" sex="F">
+            <persName>Celia</persName>
+            <note>Character in <title level="m">As You Like It <!-- look for number; can we make a Shakespeare connection?--></title> <!-- add something here--></note>
+         </person>
+         <person xml:id="Tarquino" sex="M">
+            <persName>Tarquino</persName>
+            <note>Character in <title level="m">Soneto V <!-- look for number; can we make a Shakespeare connection?--></title> Sextus Tarquinius was the third and youngest son of the last king of Rome, Lucius Tarquinius Superbus, according to Livy, but by Dionysius of Halicarnassus he was the oldest of the three.According to Roman tradition, his rape of Lucretia was the precipitating event in the overthrow of the monarchy and the establishment of the Roman Republic.</note>
+         </person>
+         <person xml:id="Lucrecia" sex="F">
+            <persName>Lucrecia</persName>
+            <note>Reference to <title level="m">Roman Tradition <!-- look for number--></title> According to Roman tradition, Lucretia (/luːˈkriːʃə/ loo-KREE-shə, Classical Latin: [lʊˈkreːtɪ.a]; died c.  510 BC), anglicized as Lucrece, was a noblewoman in ancient Rome, whose rape by Sextus Tarquinius (Tarquin) and subsequent suicide precipitated a rebellion that overthrew the Roman monarchy and led to the transition of Roman government from a kingdom to a republic.</note>
+         </person>
+         <person xml:id="Sísifo" sex="M">
+            <persName>Sísifo</persName>
+            <note>Reference to <title level="m">Greek mythology <!-- look for number;--> </title> In Greek mythology, Sisyphus or Sisyphos was the founder and king of Ephyra (now known as Corinth). Hades punished him for cheating death twice by forcing him to roll an immense boulder up a hill only for it to roll back down every time it neared the top, repeating this action for eternity. Through the classical influence on modern culture, tasks that are both laborious and futile are therefore described as Sisyphean.</note>
+         </person>
+         <person xml:id="Pompeyo" sex="M">
+            <persName>Pompeyo</persName>
+            <note>Reference to <title level="m">Roman general and statesman <!-- look for number--></title> He played a significant role in the transformation of Rome from republic to empire. Early in his career, he was a partisan and protégé of the Roman general and dictator Sulla; later, he became the political ally, and finally the enemy, of Julius Caesar.</note>
+         </person>
+         <person xml:id="Julia" sex="M">
+            <persName>Julia</persName>
+            <note>Reference to <title level="m">Pompeyo's wife <!-- look for number--></title> She was the daughter of Roman dictator Julius Caesar by his first or second wife Cornelia, and his only child from his marriages.[1] Julia became the fourth wife of Pompey the Great and was renowned for her beauty and virtue.</note>
+         </person>
+         <!-- etc.-->
+         
+      </listPerson>
+      <listPlace>
+         <place xml:id="place001">
+            
+         </place>
+         <!-- etc.-->
+      </listPlace>
+      <listOrg>
+         <org xml:id="org001">
+            
+         </org>
+         <!-- etc.-->
+      </listOrg>
+   </standOff>
+</TEI>
