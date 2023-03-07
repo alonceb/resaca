@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poemas de la Unica Poetisa Americana Musa Dezima, Soror Juana Ines de la Cruz</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>The edition of the Poemas published by J. Llopis, Barcelona, 1691, is also called the third; that published by M. Roman, Zaragoza, 1692, is called the "3. impression"</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitizing sponsor Brigham Young University Contributor Harold B. Lee Library Language Spanish</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front>
+       <docTitle>
+          <titlePart type="main"> Soneto</titlePart>
+       </docTitle>
+        <docAuthor>Soror Juana Ines De La Cruz</docAuthor>
+     </front>
+      <body> 
+         <p>
+            <lg> 
+               <l>Al que ingrato me deja, busco amante;</l> 
+               <l>al que amante me sigue, dejo ingrata; </l> 
+               <l>constante adoro a quien mi amor maltrata, </l> 
+               <l>maltrato a quien mi amor busca constante. </l> 
+           
+               <l>Al que trato de amor, hallo diamante, </l> 
+               <l>y soy diamante al que de amor me trata, </l> 
+               <l>triunfante quiero ver al que me mata, </l> 
+               <l>y mato al que me quiere ver triunfante. </l>
+            
+               <l>Si a éste pago, padece mi deseo;</l>  
+               <l>si ruego a aquél, mi pundonor enojo;</l> 
+               <l>de entrambos modos infeliz me veo. </l>
+            
+               <l> Pero yo, por mejor partido, escojo; </l>
+               <l> de quien no quiero, ser violento empleo; </l>
+               <l> que, de quien no me quiere, vil despojo. </l>
+           
+               <l> Continùa el assumpto, y aun le expresa con mas viva elegancia. </l>
+               <l>Feliciano me adora y le aborrezco;</l>
+               <l> Lizardo me aborrece y yo le adoro;</l>
+               <l>Por quien no me apetece ingrato, lloro,</l>
+               <l> Y al que me llora tierno, no apetezco.</l>
+               
+              <l> A quien más me desdora, el alma ofrezco; </l>
+              <l> A quien me ofrece víctimas, desdoro;</l>
+              <l> Desprecio al que enriquece mi decoro,</l>
+              <l>Y al que le hace desprecios enriquezco.</l>
+               
+              <l>Si con mi ofensa al uno reconvengo; </l>
+              <l> Me reconviene el otro a mí ofendido;</l>
+              <l> Y a padecer de todos modos vengo;</l>
+              <l> Pues ambos atormentan mi sentido:</l>
+              <l> Aquéste con pedir lo que no tengo;</l>
+              <l> Y aquél con no tener lo que le pido.</l>
+            </lg>
+            <l> Fabio, en el ser de todos adoradas</l>
+             <l> son todas las beldades ambiciosas,</l>
+            <l>  porque tienen las aras por ociosas </l>
+            <l> si no las ven de víctimas colmadas. </l>
+            
+            <l> Y así, sí de uno solo son amadas,  </l>
+            <l> viven de la fortuna querellosas; </l>
+            <l>  porque piensan que más que ser hermosas  </l>
+            <l> constituyen deidad al ser rogadas. </l>
+            
+            <l>Mas yo soy en aquesto tan medida, </l>
+            <l>que en viendo a muchos mi atención zozobra</l>
+            <l>y sólo quiero ser correspondido.</l>
+            
+            <l>de aquel que de mi amor réditos cobra;</l>
+            <l>porque es la sal del gusto al ser querido:</l> 
+            <l>que daña lo que falta y lo que sobra.</l>
+            <l> </l>
+            <l>Quexase de la fuerte: insinùa su aversión à los vicios</l>
+            <l> y justifica su divertimiento à las musas.</l>
+            
+            <l>En perseguirme, mundo, ¿qué interesas?</l>
+            <l>¿En qué te ofendo, cuando sólo intento</l>
+            <l> poner bellezas en mi entendimiento</l>
+            <l> y no mi entendimiento en las bellezas?</l>
+            
+            <l>Yo no estimo tesoros ni riquezas;</l>
+            <l>y así, siempre me causa más contento</l>
+            <l>poner riquezas en mi pensamiento</l>
+            <l>que no mi pensamiento en las riquezas.</l>
+            
+            <l>Y no estimo hermosura que, vencida,</l>
+            <l>es despojo civil de las edades,</l>
+            <l>ni riqueza me agrada fementida,</l>
+            
+            <l>teniendo por mejor, en mis verdades,</l>
+            
+            <l>Soror Juana Ines De La Cruz</l>
+            <l>consumir vanidades de la vida</l>
+            <l>que consumir la vida en vanidades.</l>
+            <l> </l>
+            <l>Muestra sentir, que la valdonem por los aplausos de su bailidad.</l>
+            
+            <l>¿Tan grande, (ay hado) mi delito ha sido</l>
+             <l>que por castigo de él o por tormento no</l> 
+            <l>basta el que adelanta el pensamiento </l>
+            <l>sino el que le previenes al oído?</l>
+            
+            <l>Tan severo en mi contra has procedido,</l>  
+            <l>que me persuado, de tu duro intento, </l>
+            <l>à que sólo me diste entendimiento</l>
+            <l> porque fuese mi daño más crecido.</l>
+            <l>Dísteme aplausos para más baldones,</l> 
+            <l>subir me hiciste, para penas tales;</l>  
+            <l>y aun pienso que me dieron tus traiciones</l>
+            <l>penas a mi desdicha desiguales:</l> 
+            <l>porque viéndome rica de tus dones,</l> 
+            <l>nadie tuviese lástima a mis males.</l>
+            <l> </l>
+            <l>Muestra se debe el coger antes el morir, exponerse à los ultrajes de la vejèz.</l>
+            <l>Miró Celia una rosa que en el prado </l>
+            <l>ostentaba feliz la pompa vana </l>
+            <l>y con afeites de carmín y grana </l>
+            <l>bañaba alegre el rostro delicado;</l>
+            
+            <l>y dijo: Goza, sin temor del hado, </l>
+            <l>el curso breve de tu edad lozana, </l>
+            <l>pues no podrá la muerte de mañana </l>
+            <l>quitarte lo que hubieres hoy gozado.</l>
+            
+            <l>Y aunque llega la muerte presurosa y tu fragante vida se te aleja, no sientas el morir tan bella y moza;</l>
+            <l>mira que la experiencia te aconseja </l>
+            <l>Musa Dezima.</l>
+            <l>que es fortuna morirte siendo hermosa y no ver el ultraje de ser vieja.</l>
+            <l> </l>
+            <l>Engrandece el hecho de Lucrecia.</l>
+            <l>¡Oh, famosa Lucrecia, gentil dama, </l>
+            <l>de cuyo ensangrentado noble pecho </l>
+            <l>salió la sangre que extinguió a despecho </l>
+            <l>del rey injusto la lasciva llama!</l>
+            <l>¡Oh, con cuánta razón el mundo aclama</l>
+             <l>tu virtud, pues por premio de tal hecho</l>
+             <l>aún es para tus sienes cerco estrecho </l>
+            <l>la amplísima corona de tu fama!</l>
+            
+            <l> Pero si el modo de tu fin violento </l>
+            <l> puedes borrar del tiempo y sus anales, </l>
+            <l> quita la punta del puñal sangriento</l>
+            <l> con que pusiste fin a tantos males; </l>
+            <l> que es mengua de tu honrado sentimiento </l>
+            <l> decir que te ayudaste de puñales.</l>
+            <l> </l>
+            <l> Nueva alabanza del hecho mismo.</l>
+            
+            <l> Intenta de Tarquino el artificio</l>
+            <l>  a tu pecho, Lucrecia, dar batalla; </l>
+            <l> ya amante llora, ya modesto calla;</l>
+            <l>  ya ofrece toda el alma en sacrificio.</l>
+            
+            <l> Y cuando piensa ya que más propicio</l>
+             <l> tu pecho a tanto imperio se avasalla, </l>
+            <l> el premio, como Sísifo, que halla, </l>
+            <l> es empezar de nuevo el ejercicio.</l>
+            
+            <l> Arde furioso y la amorosa tema </l>
+            <l> crece en la resistencia de tu honda,</l>
+             <l> con tanta privación más obstinada.</l>
+            <l> ¡Oh providencia de deidad suprema: </l>
+            <l> tu honestidad motiva tu deshonra </l>
+            <l> y tu deshonra te eterniza honrada!</l>
+            
+            Soror Juana Ines De La Cruz.
+            <l> </l>
+            Soneto.
+            
+            <l> Admira, con el sucesso que refiere, los efectos im-</l>
+            <l> prevenibles de algunos acuerdos.</l>
+            
+            <l>La heroica esposa de Pompeyo, altiva, </l>
+            <l>al ver su vestidura en sangre roja, </l>
+            <l>con generosa cólera se enoja </l>
+            <l>de sospecharlo muerto y estar viva.</l>
+            <l>Rinde la vida en que el sosiego estriba </l>
+            <l>de esposo y padre, y con mortal congoja, </l>
+            <l>la concebida sucesión arroja, y de la paz con ella a Roma priva.</l>
+            <l>Si el infeliz concepto que tenía </l>
+            <l>en las entrañas Julia, no abortara, </l>
+            <l>la muerte de Pompeyo excusaría.</l>
+            <l>¡Qué tirana fortuna! ¡Quién pensara,</l>
+             <l>que con el mismo amor que la temía, </l>
+            <l>con ese mismo amor se la causara!</l>
+            <l> </l>
+            <l>Contrapone el Amor al fuego material, y quiere</l> 
+            <l>acabar remisiones a este con ocasión de con-tar el</l> 
+            <l>suceso de Porcia.</l>
+            
+            <l>¿Qué pasión, Porcia, qué dolor tan ciego</l>
+             <l>te obliga a ser de ti fiera homicida?</l>
+             <l>¿O en qué te ofende tu inocente vida </l>
+            <l>que así le das batalla a sangre y fuego?</l>
+            
+            <l>Si la fortuna airada al justo ruego</l> 
+            <l>de tu esposo se muestra endurecida,</l>
+            <l>bástale el mal de ver su acción perdida; no acabes, con tu vida, su sosiego.</l>
+            <l>Deja las brasas, Porcia, que mortales </l>
+            <l>impaciente tu amor elegir quiere; </l>
+            <l>no al fuego de tu amor el fuego iguales;</l>
+            <l>porque si bien de tu pasión se infiere, </l>
+            <l>mal morirá a las brasas materiales,</l>
+            
+            <l>Musa Dezima quien a las llamas del amor no muere.</l>
+            <l> </l>
+            <l>Refiere con ajuste la tragedia de Pyraamo; y </l>
+            <l>Tyshe.</l>
+            
+            <l>De un funesto moral la negra sombra,</l>
+             <l>de horrores mil, y confusiones llena, </l>
+            <l>en cuyo hueco tronco aún hoy resuena</l>
+             <l>el eco que doliente a Tisbe nombra,</l>
+            
+            <l>cubrió la verde matizada alfombra </l>
+            <l>en que Píramo amante abrió la vena </l>
+            <l>del corazón, y Tisbe de su pena </l>
+            <l>dio la señal que aún hoy al mundo asombra.</l>
+            <l>Mas viendo del amor tanto despecho, </l>
+            <l>la muerte, entonces de ellos lastimada, </l>
+            <l>sus dos pechos juntó con lazo estrecho:</l>
+            
+            <l>mas ¡ay de la infeliz y desdichada </l>
+            <l>que a su Píramo dar no puede el pecho</l>
+            <l> ni aun por los duros filos de una espada!</l>  
+            <l> </l>
+            
+            <l>Effectos muy penosos de Amor, y que no por</l> 
+            <l>grandes igualan con las presas de quien</l>
+            <l>le causa.</l>
+            <l>¿Vesme, Alcino, que atada a la cadena</l>
+             <l>de amor, paso, en sus hierros aherrojada,</l> 
+            <l>mísera esclavitud desesperada, </l>
+            <l>de libertad y de consuelo ajena?</l>
+            
+            <l>¿Ves de dolor y angustia el alma llena,</l> 
+            <l>de tan fieros tormentos lastimada, </l>
+            <l>y entre las vivas llamas abrasada, </l>
+            <l>juzgarse por indigna de su pena?</l>
+            
+            <l>¿Vesme seguir sin alma un desatino</l>
+             <l>que yo misma condeno por extraño? </l>
+            <l>¿Vesme derramar sangre en el camino</l>
+            
+            <l>siguiendo los vestigios de un engaño?</l>
+            
+            <l>Soror Juana Ines de la Cruz </l>
+            <l>¿Muy admirado estás? ¿Pues ves, Alcino?</l>
+            <l> Más merece la causa de mi daño.</l>
+            <l> </l>
+            <l>Discurre inevitable el llanto á vístale</l> 
+            <l>quien ama.</l>
+            <l>Mandas, Anarda, que sin llanto asista </l>
+            <l>a ver tus ojos, de lo cual sospecho, </l>
+            <l>que el ignorar la causa, es quien te ha hecho </l>
+            <l>querer, que emprenda yo tanta conquista.</l>
+            
+            <l>Amor, Señora, sin que me resista, </l>
+            <l>que tiene en fuego el corazón deshecho, </l>
+            <l>como hace huir la sangre allá en el pecho, </l>
+            <l>vaporiza en ardores por la vista.</l>
+            
+            <l>Buscan luego mis ojos tu presencia, </l>
+            <l>que centro juzga de su dulce encanto, </l>
+            <l>y cuando mi atención te reverencia.</l>
+            
+            <l>Los virtuales rayos entretanto, </l>
+            <l>como hallan en tu nieve resistencia, </l>
+            <l>lo que salió vapor, se vuelve llanto.</l>
+            
+         </p>
+      </body>
+  </text>
+</TEI>
