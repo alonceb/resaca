@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poemas de la Unica Poetisa Americana Musa Dezima, Soror Juana Ines de la Cruz</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>The edition of the Poemas published by J. Llopis, Barcelona, 1691, is also called the third; that published by M. Roman, Zaragoza, 1692, is called the "3. impression"</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitizing sponsor Brigham Young University Contributor Harold B. Lee Library Language Spanish</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <schemaSpec ident="WeirdCorpusODD" start="TEI">
+            <moduleRef key="header"/>
+            <moduleRef key="tei"/>
+            <moduleRef key="textstructure" exclude= "div1 div2 div3 div4 div5 div6 div7"/>
+            <moduleRef key="analysis"/>
+            <moduleRef key="certainty"/>
+            <moduleRef key="corpus"/>
+            <moduleRef key="dictionaries"/>
+            <moduleRef key="figures"/>
+            <moduleRef key="gaiii"/>
+            <moduleRef key="iso-fs"/>
+            <moduleRef key="linking"/>
+            <moduleRef key="msdescription"/>
+            <moduleRef key="namesdates"/>
+            <moduleRef key="nets"/>
+            <moduleRef key="spoken"/>
+            <moduleRef key="tagdocs"/>
+            <moduleRef key="taxcrit"/>
+            <moduleRef key="transcr"/>
+            <moduleRef key="verse"/>
+         </schemaSpec>
+         <elementSpec
+            module="namesdates"
+            ident="persName"
+            mode="change">
+         <content> 
+            <sequence preserveOrder="false">
+               <elementRef key="forename" minOccurs="0" maxOccurs="unbounded"/>
+               <elementRef key="surname" minOccurs="0" maxOccurs="unbounded"/>
+            </sequence>
+         </content>
+            <alternate>
+               <sequence preserveOrder="false">
+                  <elementRef key="forename" minOccurs="0" maxOccurs="unbounded"/>
+                  <elementRef key="surname" minOccurs="0" maxOccurs="unbounded"/>
+                     <attDef ident="type" mode="change" usage="req">
+                        <datatype>
+                           <dataRef key="teidata.enumerated"/> 
+                        </datatype>
+                        <vall_ist type="closed" mode= "replace">
+                           <valtem ident="char">
+                              <gloss> Feliciano </gloss>
+                              <desc> Character in Soneto V</desc>
+                           </valtem>
+                           <valtem>
+                           <valtem ident="hist"> 
+                              <gloss> Lizardo</gloss>
+                              <desc> Character in Soneto V.</desc>
+                        </dataRef>
+                     </attDef>
+                  
+               </sequence>
+            </alternate>
+         </elementSpec>
+         
+      </body>
+   </text>
+</TEI>
+
