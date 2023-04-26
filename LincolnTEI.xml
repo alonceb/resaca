@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<title> My Awesome Lincoln Site!</title>
+</titleStmt>
+<publication Information</p> 
+</publicationStmt>
+    <sourceDesc>
+        <p>Modified from XQuery For Humanists </p>
+    </sourceDesc>
+    <p> Modified from XQuery For Humanists</p>
+</sourceDesc>
+    <filesDesc>
+        <teiHeader>
+        <text>
+            <body>
+                <div>
+                    <p>
+                        <persName
+                          ref="https://en.wikipedia.org/wiki/Abraham_Lincoln">Lincoln</persName>
+                        is dead! The body of the victim of a mad assasin has dissapeared 
+                        from the surface of 
+                    </p>
+                </div>
+            </body>
+        </text>
+    </filesDesc>
