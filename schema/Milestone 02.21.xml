@@ -61,7 +61,7 @@
               <l> Aquéste con pedir lo que no tengo;</l>
               <l> Y aquél con no tener lo que le pido.</l>
             </lg>
-            <l> <persName ref="Fabio">Fabio</persName>, en el ser de todos adoradas</l>
+            <l> <persName ref="#Fabio">Fabio</persName>, en el ser de todos adoradas</l>
              <l> son todas las beldades ambiciosas,</l>
             <l>  porque tienen las aras por ociosas </l>
             <l> si no las ven de víctimas colmadas. </l>
@@ -121,7 +121,7 @@
             <l>nadie tuviese lástima a mis males.</l>
             <l> </l>
             <l>Muestra se debe el coger antes el morir, exponerse à los ultrajes de la vejèz.</l>
-            <l>Miró <persName ref="Celia">Celia</persName> una rosa que en el prado </l>
+            <l>Miró <persName ref="#Celia">Celia</persName> una rosa que en el prado </l>
             <l>ostentaba feliz la pompa vana </l>
             <l>y con afeites de carmín y grana </l>
             <l>bañaba alegre el rostro delicado;</l>
@@ -136,7 +136,7 @@
             <l>Musa Dezima.</l>
             <l>que es fortuna morirte siendo hermosa y no ver el ultraje de ser vieja.</l>
             <l> </l>
-            <l>Engrandece el hecho de <persName ref="Lucrecia">Lucrecia</persName>.</l>
+            <l>Engrandece el hecho de <persName ref="#Lucrecia">Lucrecia</persName>.</l>
             <l>¡Oh, famosa Lucrecia, gentil dama, </l>
             <l>de cuyo ensangrentado noble pecho </l>
             <l>salió la sangre que extinguió a despecho </l>
@@ -155,14 +155,14 @@
             <l> </l>
             <l> Nueva alabanza del hecho mismo.</l>
             
-            <l> Intenta de <persName ref="Tarquino">Tarquino</persName> el artificio</l>
+            <l> Intenta de <persName ref="#Tarquino">Tarquino</persName> el artificio</l>
             <l>  a tu pecho, Lucrecia, dar batalla; </l>
             <l> ya amante llora, ya modesto calla;</l>
             <l>  ya ofrece toda el alma en sacrificio.</l>
             
             <l> Y cuando piensa ya que más propicio</l>
              <l> tu pecho a tanto imperio se avasalla, </l>
-            <l> el premio, como <persName ref="Sísifo">Sísifo</persName>, que halla, </l>
+            <l> el premio, como <persName ref="#Sísifo">Sísifo</persName>, que halla, </l>
             <l> es empezar de nuevo el ejercicio.</l>
             
             <l> Arde furioso y la amorosa tema </l>
@@ -179,7 +179,7 @@
             <l> Admira, con el sucesso que refiere, los efectos im-</l>
             <l> prevenibles de algunos acuerdos.</l>
             
-            <l>La heroica esposa de <persName ref="Pompeyo">Pompeyo</persName>, altiva, </l>
+            <l>La heroica esposa de <persName ref="#Pompeyo">Pompeyo</persName>, altiva, </l>
             <l>al ver su vestidura en sangre roja, </l>
             <l>con generosa cólera se enoja </l>
             <l>de sospecharlo muerto y estar viva.</l>
@@ -187,7 +187,7 @@
             <l>de esposo y padre, y con mortal congoja, </l>
             <l>la concebida sucesión arroja, y de la paz con ella a Roma priva.</l>
             <l>Si el infeliz concepto que tenía </l>
-            <l>en las entrañas <persName ref="Julia">Julia</persName>, no abortara, </l>
+            <l>en las entrañas <persName ref="#Julia">Julia</persName>, no abortara, </l>
             <l>la muerte de Pompeyo excusaría.</l>
             <l>¡Qué tirana fortuna! ¡Quién pensara,</l>
              <l>que con el mismo amor que la temía, </l>
